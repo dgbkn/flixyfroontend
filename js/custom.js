@@ -26,7 +26,7 @@ Index Of Script
 ------------------------------------------------
 Index Of Script
 ----------------------------------------------*/
-
+function callJquery(){
 (function (jQuery) {
 	"use strict";
 	jQuery(document).ready(function() {
@@ -546,3 +546,4 @@ Index Of Script
 
 	});
 })(jQuery);
+}
