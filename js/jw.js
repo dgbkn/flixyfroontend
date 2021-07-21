@@ -23,7 +23,7 @@ var jwDefaults = {
   "displaydescription": true,
   "displaytitle": true,
   "height": 270,
-  "key": "ZrJ3rDJe2AX8MPAuWASkqFsh2QghrWzmhULzuuCJ3V2v00W9FB0cg2vLEU5+hIRO",
+  //"key": "ZrJ3rDJe2AX8MPAuWASkqFsh2QghrWzmhULzuuCJ3V2v00W9FB0cg2vLEU5+hIRO",
   "logo": {
     "file": "https://assets-jpcust.jwpsrv.com/watermarks/0a1YIE4t.png",
     "hide": true,
@@ -54,4 +54,3 @@ var jwDefaults = {
   "width": "100%"
 };
 jwplayer.defaults = jwDefaults;
-Copied
