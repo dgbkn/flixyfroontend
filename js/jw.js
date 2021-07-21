@@ -26,7 +26,7 @@ var jwDefaults = {
 //   "key": "ZrJ3rDJe2AX8MPAuWASkqFsh2QghrWzmhULzuuCJ3V2v00W9FB0cg2vLEU5+hIRO",
    "key":"iaoPzwXWQ3yp0jg0wtDmfAsw9eGR+VwvpYL41Q==",
   "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/0a1YIE4t.png",
+    "file": "https://cdn.jsdelivr.net/gh/dgbkn/flixyfroontend@main/logo.png",
     "hide": true,
     "link": "https://google.com",
     "margin": "10",
