@@ -49,8 +49,8 @@ var jwDefaults = {
   "displaytitle": true,
   "height": 360,
 //   "key": "ZrJ3rDJe2AX8MPAuWASkqFsh2QghrWzmhULzuuCJ3V2v00W9FB0cg2vLEU5+hIRO",
-//    "key":"lsqO2tFxPN6SUujiLEa1xfZ2pBZtINdmw8D0+Csno90gVuWkwlv1cuaZP+cB9g31",
-      "key":"iaoPzwXWQ3yp0jg0wtDmfAsw9eGR+VwvpYL41Q==",
+   "key":"lsqO2tFxPN6SUujiLEa1xfZ2pBZtINdmw8D0+Csno90gVuWkwlv1cuaZP+cB9g31",
+//       "key":"iaoPzwXWQ3yp0jg0wtDmfAsw9eGR+VwvpYL41Q==",
 
   "logo": {
     "file": "https://cdn.jsdelivr.net/gh/dgbkn/flixyfroontend@main/logo.png",
@@ -61,10 +61,9 @@ var jwDefaults = {
   },
   "mute": false,
   "ph": 1,
-//   "pid": "KB5zFt7A",
-  "pid": "5LpR6SqU",
-
-   "playbackRateControls": true,
+  "pid": "KB5zFt7A",
+//   "pid": "5LpR6SqU",
+  "playbackRateControls": true,
   "preload": "metadata",
   "repeat": false,
   "sharing": {
